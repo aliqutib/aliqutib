@@ -16,7 +16,7 @@
   </tr>
 
   <tr>
-    <td rowspan="3"> 
+    <td colspan="3"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="mern logo" width="300" height="200" />
     </td>
   </tr>

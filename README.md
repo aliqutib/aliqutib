@@ -2,11 +2,10 @@
 - 👀 I’m interested in improving my skills by advance challenges
 - 🌱 I’m currently working in MERN Stack and along side learning AI and Big Data
 - My Current skills I have worked in
-<img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" width="100" height="100" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" alt="css logo" width="100" height="100" />
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js logo" width="100" height="100" />
+<img style="display:inline-block;" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" width="100" height="100" />
+<img style="display:inline-block;" src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" alt="css logo" width="100" height="100" />
+<img style="display:inline-block;" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js logo" width="100" height="100" />
 <!--<img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react logo" width="100" height="100" /> -->
-<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="mern logo" width="100" height="100" />
 
   

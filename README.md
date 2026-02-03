@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving my skills by advance challenges
 - 🌱 I’m currently working in MERN Stack and along side learning AI and Big Data
 - My Current skills I have worked in
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" width="100" height="100" />
@@ -17,7 +17,7 @@
 
   <tr>
     <td colspan="3"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="mern logo" width="300" height="200" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="mern logo" width="100" height="100" />
     </td>
   </tr>
 </table>

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliqutib
+<h1>- 👋 Hi, I’m @aliqutib</h1>
 - 👀 I’m interested in improving my skills by advance challenges
 - 🌱 I’m currently working in MERN Stack and along side learning AI and Big Data
 - My Current skills I have worked in

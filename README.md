@@ -1,33 +1,108 @@
-<h1>- 👋 Hi, I’m @aliqutib</h1>
-- 👀 I’m interested in improving my skills by advance challenges
+<h1 align="center">👋 Hi, I'm Ali Qutib</h1>
 
-- 🌱 I’m currently working in MERN Stack and along side learning AI and Big Data
+<p align="center">
+  <b>MERN Stack Developer • AI/ML Enthusiast • Deep Learning Learner</b>
+</p>
 
-- My Current skills I have worked in
+<p align="center">
+  🚀 Improving my skills through advanced challenges & real-world projects
+</p>
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" width="100" height="100" />
-    </td>
-    <td>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" alt="css logo" width="100" height="100" />
-    </td>
-    <td>
-      <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="js logo" width="100" height="100" />
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td colspan="3"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="mern logo" width="300" height="200" />
-    </td>
-  </tr>
-</table>
+## 💻 Development
 
-  
-  <!--<img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react logo" width="100" height="100" /> -->
-<!---
-aliqutib/aliqutib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+---
+
+## 🤖 AI • Machine Learning • Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Learning-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-In%20Depth-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Learning-412991?style=for-the-badge" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+---
+
+## 📜 Certifications
+
+### DeepLearning.AI
+
+<p>
+  🎓 AI for Everyone<br/>
+  🎓 Probability & Statistics for Machine Learning and Data Science
+</p>
+
+### Google Career Certificates
+
+<p>
+  🎓 Google AI Essentials — Specialization<br/>
+  🎓 Google Prompting Essentials — Specialization<br/>
+  🎓 Agile Essentials — Specialization
+</p>
+
+### Packt
+
+<p>
+  🎓 Backend Development & API Creation<br/>
+  🎓 Frontend in React
+</p>
+
+### Kaggle
+
+<p>
+  🎓 Intro to Machine Learning<br/>
+  🎓 Intermediate Machine Learning<br/>
+  🎓 Intro to Deep Learning<br/>
+  🎓 Intro to AI Ethics
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliqutib&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>

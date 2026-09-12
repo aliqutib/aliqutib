@@ -37,8 +37,8 @@
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="100" height="100"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="50" height="50"/>
 </p>
 
 <p align="center">

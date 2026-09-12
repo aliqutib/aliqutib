@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
@@ -39,11 +38,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-Learning-1C1C1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-In%20Depth-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-Learning-412991?style=for-the-badge" />
 </p>
 

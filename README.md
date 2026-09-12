@@ -38,11 +38,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="100" height="100"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-Learning-412991?style=for-the-badge" />
 </p>
 

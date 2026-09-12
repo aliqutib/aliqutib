@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Ali Qutib</h1>
 
 <p align="center">
-  <b>MERN Stack Developer • AI/ML Enthusiast • Deep Learning Learner</b>
+  <b>MERN Stack Engineer • AI/ML Dev • Deep Learning Learner</b>
 </p>
 
 <p align="center">
-  🚀 Improving my skills through advanced challenges & real-world projects
+  I believe in reliable, useful, predictable, and scalable systems rather than fancy hyped technology
 </p>
 
 ---
@@ -16,11 +16,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
 
 ---
 
@@ -101,8 +96,3 @@
   🎓 Intro to AI Ethics
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliqutib&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>

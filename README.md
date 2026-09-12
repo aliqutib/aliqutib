@@ -15,8 +15,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
 </p>
-
-
 ---
 
 ## 🤖 AI • Machine Learning • Data Science
@@ -43,7 +41,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Learning-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
 </p>
 
 ---

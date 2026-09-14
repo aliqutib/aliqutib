@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ## 💻 Development
 
@@ -24,7 +24,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ## 🤖 AI • ML • Data Science
 
@@ -39,7 +39,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ## 🧠 Currently Learning
 

@@ -46,11 +46,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="50" height="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/018/783/274/non_2x/deep-learning-icon-from-industry-4-0-collection-simple-line-element-deep-learning-symbol-for-templates-web-design-and-infographics-vector.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4KDJjqD876Qcq-mZpPSd-_M-SqcMq34AKiNbK-Xvbo0ex8Wr-kMUWZ4&s=10" />
 </p>
 
 </td>
@@ -59,7 +59,7 @@
 </table>
 
 ---
-
+<p align="center">
 <table>
 <tr>
 
@@ -70,14 +70,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,figma"/>
   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxjLA80kau9tjXOxhlZk5VV.0ipITXR7kEC_uNxEet0iuGwViGGXU3GB.AKmUCtG2RYDx3s6u611uyhUGN5NMToo-&format=source" alt="Notion" width="50" height="50"/>
+</p>
+<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUeSg5xCDtfVQWPllwPYFNtLCB81VET-x2CfaM6mfCA&s=10" alt="Hugging Face" width="50" height="50"/>
   <img src="https://storage.googleapis.com/kaggle-media/bipoc-grant/kaggle-professor-goose.png" alt="Kaggle" width="50" height="50"/>
 </p>
-
 </td>
 </tr>
 </table>
-
+</p>
 ---
 
 ## 📜 Certifications

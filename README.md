@@ -5,32 +5,47 @@
 </p>
 
 <p align="center">
-  I believe in reliable, useful, predictable, and scalable systems rather than fancy hyped technology
+  I believe in reliable, useful, predictable, and scalable systems rather than fancy hyped technology.
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 💻 Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
 </p>
----
 
-## 🤖 AI • Machine Learning • Data Science
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI • ML • Data Science
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTXO_xtlRVungcdIFFTCiTutUomHgAezGLNIZyyPqDw&s=10" alt="Scikit-Learn" width="50" height="50"/>
+  <img src="https://static.wixstatic.com/media/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirZGme76yllcmfnRIvF_iPyLe0etAtZVPkxNb2GVhAQ&s" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=iZKe_LBwW0NSHcz1V9_LsKskeje_BYusBCoctWYnWJ0" alt="NumPy" width="50" height="50"/>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🧠 Currently Learning
 
@@ -44,52 +59,79 @@
   <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
 </p>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,figma" />
+  <img src="https://skillicons.dev/icons?i=github,figma" width="50" height="50"/>
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxjLA80kau9tjXOxhlZk5VV.0ipITXR7kEC_uNxEet0iuGwViGGXU3GB.AKmUCtG2RYDx3s6u611uyhUGN5NMToo-&format=source" alt="Notion" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUeSg5xCDtfVQWPllwPYFNtLCB81VET-x2CfaM6mfCA&s=10" alt="Hugging Face" width="50" height="50"/>
+  <img src="https://storage.googleapis.com/kaggle-media/bipoc-grant/kaggle-professor-goose.png" alt="Kaggle" width="50" height="50"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📜 Certifications
 
+<table>
+<tr>
+<td width="25%" valign="top">
+
 ### DeepLearning.AI
 
-<p>
-  🎓 AI for Everyone<br/>
-  🎓 Probability & Statistics for Machine Learning and Data Science
-</p>
+🎓 AI for Everyone
 
-### Google Career Certificates
+🎓 Probability & Statistics for Machine Learning and Data Science
 
-<p>
-  🎓 Google AI Essentials — Specialization<br/>
-  🎓 Google Prompting Essentials — Specialization<br/>
-  🎓 Agile Essentials — Specialization
-</p>
+</td>
+
+<td width="25%" valign="top">
+
+### Google
+
+🎓 Google AI Essentials
+
+🎓 Google Prompting Essentials
+
+🎓 Agile Essentials
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Packt
 
-<p>
-  🎓 Backend Development & API Creation<br/>
-  🎓 Frontend in React
-</p>
+🎓 Backend Development & API Creation
+
+🎓 Frontend in React
+
+</td>
+
+<td width="25%" valign="top">
 
 ### Kaggle
 
-<p>
-  🎓 Intro to Machine Learning<br/>
-  🎓 Intermediate Machine Learning<br/>
-  🎓 Intro to Deep Learning<br/>
-  🎓 Intro to AI Ethics
-</p>
+🎓 Intro to Machine Learning
 
+🎓 Intermediate Machine Learning
+
+🎓 Intro to Deep Learning
+
+🎓 Intro to AI Ethics
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliqutib&style=for-the-badge" alt="Profile views"/>
+</p>

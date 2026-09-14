@@ -66,7 +66,7 @@
 ## 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github,figma"/>
   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxjLA80kau9tjXOxhlZk5VV.0ipITXR7kEC_uNxEet0iuGwViGGXU3GB.AKmUCtG2RYDx3s6u611uyhUGN5NMToo-&format=source" alt="Notion" width="50" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUeSg5xCDtfVQWPllwPYFNtLCB81VET-x2CfaM6mfCA&s=10" alt="Hugging Face" width="50" height="50"/>
   <img src="https://storage.googleapis.com/kaggle-media/bipoc-grant/kaggle-professor-goose.png" alt="Kaggle" width="50" height="50"/>

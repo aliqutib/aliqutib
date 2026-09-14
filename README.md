@@ -44,13 +44,13 @@
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg695ArkGd_UQliPKJO2IDKx2mVncCukKiu0xXN3c8ww&s=10" width="80" height="80"/>
 </p>
 
 <p align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/783/274/non_2x/deep-learning-icon-from-industry-4-0-collection-simple-line-element-deep-learning-symbol-for-templates-web-design-and-infographics-vector.jpg" width="50" height="50" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4KDJjqD876Qcq-mZpPSd-_M-SqcMq34AKiNbK-Xvbo0ex8Wr-kMUWZ4&s=10" width="50" height="50"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/018/783/274/non_2x/deep-learning-icon-from-industry-4-0-collection-simple-line-element-deep-learning-symbol-for-templates-web-design-and-infographics-vector.jpg" width="80" height="80" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4KDJjqD876Qcq-mZpPSd-_M-SqcMq34AKiNbK-Xvbo0ex8Wr-kMUWZ4&s=10" width="60" height="60"/>
 </p>
 
 </td>

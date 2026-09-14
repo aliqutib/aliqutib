@@ -38,13 +38,6 @@
 </p>
 
 </td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ## 🧠 Currently Learning
@@ -60,6 +53,14 @@
 </p>
 
 </td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
 
 <td width="50%" valign="top">
 

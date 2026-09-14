@@ -17,7 +17,8 @@
 ## 💻 Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mongodb,fastapi,flask" />
 </p>
 
 </td>
@@ -28,9 +29,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTXO_xtlRVungcdIFFTCiTutUomHgAezGLNIZyyPqDw&s=10" alt="Scikit-Learn" width="50" height="50"/>
   <img src="https://static.wixstatic.com/media/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png" alt="Pandas" width="50" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirZGme76yllcmfnRIvF_iPyLe0etAtZVPkxNb2GVhAQ&s" alt="Matplotlib" width="50" height="50"/>

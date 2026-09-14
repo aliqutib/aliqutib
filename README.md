@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <br />
   <img src="https://skillicons.dev/icons?i=mongodb,fastapi,flask" />
 </p>
 
@@ -30,6 +31,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTXO_xtlRVungcdIFFTCiTutUomHgAezGLNIZyyPqDw&s=10" alt="Scikit-Learn" width="50" height="50"/>
+</p>
+<p align="center">
   <img src="https://static.wixstatic.com/media/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/09d18d_36101ac7600a4e909455b8a573ac6a91~mv2.png" alt="Pandas" width="50" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirZGme76yllcmfnRIvF_iPyLe0etAtZVPkxNb2GVhAQ&s" alt="Matplotlib" width="50" height="50"/>
   <img src="https://media.licdn.com/dms/image/v2/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=iZKe_LBwW0NSHcz1V9_LsKskeje_BYusBCoctWYnWJ0" alt="NumPy" width="50" height="50"/>
